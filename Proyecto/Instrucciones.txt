@@ -1,0 +1,3 @@
+Despues de copiar el repositorio, el archivo e corre dentro  en el cmd de la carpeta de yolov7.
+Hay que instalar libreria serial para comunicacion con el Arduino.
+En la carpeta weights esta el archivo best.pt que es el entrenamiento personalizado 100 epochs, esta va dentro de la carpeta yolov7, fue entrenado en google colab.
